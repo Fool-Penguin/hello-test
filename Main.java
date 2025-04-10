@@ -1,8 +1,8 @@
 class hIghLow
 {public static void main(String[] args)
 {
-int[] numBers = {9, 3, 5, 7, 1};
-sortArr(numBers);}
+int[] numbers = {9, 3, 5, 7, 1};
+sortArr(numbers);}
 public static void sortArr(int[] xx)
 {for (int i = 0; i < xx.length; i++) {
 for (int j = 0; j < xx.length; j++) {
